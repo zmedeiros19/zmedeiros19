@@ -1,0 +1,4 @@
+Run From HTML File or VSCode
+Must have JavaScript
+Must have Chart.JS installed 
+I did it using the command "npm install chart.js"
